@@ -1,0 +1,1 @@
+{"playerData":{"IsTutorialComleted":false,"ClickCounter":5,"LangIndex":1,"IsSoundOn":true,"IsFirstLoad":true,"CommonCollection":[],"RareCollection":[],"EpicCollection":[]}}
